@@ -1,4 +1,4 @@
-# Awesome-Reasoning-LLM-Tutorial-Survey-Guide  
+# Awesome-Reasoning-LLM-Tutorial-Survey-Guide
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)  
 
