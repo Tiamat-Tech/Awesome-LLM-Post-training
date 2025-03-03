@@ -5,7 +5,8 @@
 Welcome to the **Awesome-Reasoning-LLM-Tutorial-Survey-Guide** repository! This repository is a curated collection of the most influential papers, code implementations, benchmarks, and resources related to **Large Language Models (LLMs) and Reinforcement Learning (RL)**. Our goal is to provide a comprehensive reference for researchers, practitioners, and enthusiasts interested in how LLMs can enhance RL through reasoning, planning, decision-making, and generalization.  
 
 Our work is based on the following paper:  
-📄 **LLM Post-Training: A Deep Dive into Reasoning Large Language Models** – Available on [arXiv]([https://arxiv.org/pdf/2502.21321](https://arxiv.org/pdf/2502.21321)).  
+📄 **LLM Post-Training: A Deep Dive into Reasoning Large Language Models** – Available on [![arXiv](https://img.shields.io/badge/arXiv-2502.21321-b31b1b.svg)]([https://arxiv.org/pdf/2502.21321](https://arxiv.org/pdf/2502.21321)).
+
 Authors: **Komal Kumar∗, Tajamul Ashraf∗, Omkar Thawakar, Rao Muhammad Anwer, Hisham Cholakkal, Mubarak Shah, Ming-Hsuan Yang, Phillip H.S. Torr, Fahad Shahbaz Khan, Salman Khan**. 
 
 **📌 Note:**  
@@ -44,6 +45,20 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 | Title | Date | Links |  
 | ----- | ---- | ----- |  
+
+| Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models | 16 Jan 2025 | [Arxiv](https://arxiv.org/abs/2501.09686) |  
+| Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models | 16 Jan 2025 | [Arxiv](https://arxiv.org/abs/2501.09686) |  
+| Reasoning with Large Language Models, a Survey | 16 July 2024 | [Arxiv](https://arxiv.org/abs/2407.11511) |  
+| Survey on Large Language Model-Enhanced Reinforcement Learning: Concept, Taxonomy, and Methods             | 30 Mar 2024        | [arXiv](https://arxiv.org/abs/2404.00282)                                             |
+| Reinforcement Learning Enhanced LLMs: A Survey                                                             | 15 Dec 2024        | [arXiv](https://arxiv.org/abs/2412.10400)                                             |
+| Enhancing Code LLMs with Reinforcement Learning in Code Generation: A Survey                               | 29 Dec 2024        | [arXiv](https://arxiv.org/abs/2412.20367)                                             |
+| Large Language Models: A Survey of Their Development, Capabilities, and Applications                        | 15 Jan 2025        | [Springer](https://link.springer.com/article/10.1007/s10115-024-02310-4)               |
+| A Survey on Multimodal Large Language Models                                                               | 10 Feb 2025        | [Oxford Academic](https://academic.oup.com/nsr/article/11/12/nwae403/7896414)          |
+| Large Language Models (LLMs): Survey, Technical Frameworks, and Future Directions                           | 20 Jul 2024        | [Springer](https://link.springer.com/article/10.1007/s10462-024-10888-y)               |
+| Using Large Language Models to Automate and Expedite Reinforcement Learning with Reward Machines           | 11 Feb 2024        | [arXiv](https://arxiv.org/abs/2402.07069)                                             |
+| ExploRLLM: Guiding Exploration in Reinforcement Learning with Large Language Models                         | 14 Mar 2024        | [arXiv](https://arxiv.org/abs/2403.09583)                                             |
+| Reinforcement Learning Problem Solving with Large Language Models                                          | 29 Apr 2024        | [arXiv](https://arxiv.org/abs/2404.18638)                                             |
+| A Survey on Large Language Model-Based Autonomous Agents    
 | A Survey on Large Language Models for Reinforcement Learning | 10 Dec 2023 | [Arxiv](https://arxiv.org/abs/2312.04567) |  
 | Large Language Models as Decision-Makers: A Survey | 23 Aug 2023 | [Arxiv](https://arxiv.org/abs/2308.11749) |  
 | A Survey on Large Language Model Alignment Techniques | 6 May 2023 | [Arxiv](https://arxiv.org/abs/2305.00921) |  
