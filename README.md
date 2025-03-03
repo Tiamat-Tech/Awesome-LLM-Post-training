@@ -49,12 +49,19 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 | Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models | 16 Jan 2025 | [Arxiv](https://arxiv.org/abs/2501.09686) |  
 | Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models | 16 Jan 2025 | [Arxiv](https://arxiv.org/abs/2501.09686) |  
 | Reasoning with Large Language Models, a Survey | 16 July 2024 | [Arxiv](https://arxiv.org/abs/2407.11511) |  
+
 | Survey on Large Language Model-Enhanced Reinforcement Learning: Concept, Taxonomy, and Methods| 30 Mar 2024        | [arXiv](https://arxiv.org/abs/2404.00282) |
+
 | Reinforcement Learning Enhanced LLMs: A Survey | 15 Dec 2024        | [arXiv](https://arxiv.org/abs/2412.10400) |
+
 | Enhancing Code LLMs with Reinforcement Learning in Code Generation: A Survey  | 29 Dec 2024        | [arXiv](https://arxiv.org/abs/2412.20367)  |
+
 | Large Language Models: A Survey of Their Development, Capabilities, and Applications | 15 Jan 2025        | [Springer](https://link.springer.com/article/10.1007/s10115-024-02310-4)  |
+
 | A Survey on Multimodal Large Language Models   | 10 Feb 2025 | [Oxford Academic](https://academic.oup.com/nsr/article/11/12/nwae403/7896414)          |
+
 | Large Language Models (LLMs): Survey, Technical Frameworks, and Future Directions  | 20 Jul 2024        | [Springer](https://link.springer.com/article/10.1007/s10462-024-10888-y)  |
+
 | Using Large Language Models to Automate and Expedite Reinforcement Learning with Reward Machines| 11 Feb 2024        | [arXiv](https://arxiv.org/abs/2402.07069)  |
 | ExploRLLM: Guiding Exploration in Reinforcement Learning with Large Language Models | 14 Mar 2024        | [arXiv](https://arxiv.org/abs/2403.09583)  |
 | Reinforcement Learning Problem Solving with Large Language Models | 29 Apr 2024        | [arXiv](https://arxiv.org/abs/2404.18638)  |
