@@ -20,7 +20,8 @@ Authors: **Komal Kumar∗, Tajamul Ashraf∗, Omkar Thawakar, Rao Muhammad Anwer
 
 Feel free to ⭐ star and fork this repository to keep up with the latest advancements and contribute to the community.
 
-[![View PDF](https://img.shields.io/badge/View-PDF-red)](https://github.com/your-username/your-repo/blob/main/Images/main_intro.pdf)
+![Main Intro](./Images/teasor.png)
+
 
 
 ---
