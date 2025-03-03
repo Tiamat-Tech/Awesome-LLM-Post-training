@@ -1,9 +1,9 @@
-# Awesome-Reasoning-LLM-Tutorial-Survey-Guide  
+# LLM Post-Training: A Deep Dive into Reasoning Large Language Models
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)  [![arXiv](https://img.shields.io/badge/arXiv-2502.21321-b31b1b.svg)]([https://arxiv.org/pdf/2502.21321](https://arxiv.org/pdf/2502.21321))  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/zzli2022/System2-Reasoning-LLM)
 [![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-blue)]()
 
-Welcome to the **LLM Post-Training: A Deep Dive into Reasoning Large Language Models** repository! This repository is a curated collection of the most influential papers, code implementations, benchmarks, and resources related to **Large Language Models (LLMs) Post-Training  Methodologies**. 
+Welcome to the **Awesome-LLM-Post-training** repository! This repository is a curated collection of the most influential papers, code implementations, benchmarks, and resources related to **Large Language Models (LLMs) Post-Training  Methodologies**. 
 
 Our work is based on the following paper:  
 📄 **LLM Post-Training: A Deep Dive into Reasoning Large Language Models** – Available on [![arXiv](https://img.shields.io/badge/arXiv-2502.21321-b31b1b.svg)]([https://arxiv.org/pdf/2502.21321](https://arxiv.org/pdf/2502.21321)).
