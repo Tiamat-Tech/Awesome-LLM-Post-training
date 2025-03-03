@@ -20,7 +20,7 @@ Authors: **Komal Kumar∗, Tajamul Ashraf∗, Omkar Thawakar, Rao Muhammad Anwer
 
 Feel free to ⭐ star and fork this repository to keep up with the latest advancements and contribute to the community.
 
-![Main Intro](./Images/teasor.png)
+![image](./Images/teasor.png)
 
 
 
