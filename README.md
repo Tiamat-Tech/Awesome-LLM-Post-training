@@ -9,7 +9,6 @@ Our work is based on the following paper:
 Authors: **Komal Kumar∗, Tajamul Ashraf∗, Omkar Thawakar, Rao Muhammad Anwer, Hisham Cholakkal, Mubarak Shah, Ming-Hsuan Yang, Phillip H.S. Torr, Fahad Shahbaz Khan, Salman Khan**. 
 
 **📌 Note:**  
-- **Equal contribution.**  
 - **Corresponding authors:** [Komal Kumar](mailto:komal.kumar@mbzuai.ac.ae), [Tajamul Ashraf](mailto:tajamul.ashraf@mbzuai.ac.ae).  
 - **Affiliations:**  
   - Komal Kumar, Tajamul Ashraf, Omkar Thawakar, Rao Muhammad Anwer, Hisham Cholakkal, Fahad Shahbaz Khan, and Salman Khan are with **Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, UAE**.  
