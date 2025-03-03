@@ -1,12 +1,11 @@
 # Awesome-Reasoning-LLM-Tutorial-Survey-Guide  
 
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)  
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)  
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)  [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)]([https://arxiv.org/pdf/2502.21321](https://arxiv.org/pdf/2502.21321))  
 
 Welcome to the **Awesome-Reasoning-LLM-Tutorial-Survey-Guide** repository! This repository is a curated collection of the most influential papers, code implementations, benchmarks, and resources related to **Large Language Models (LLMs) and Reinforcement Learning (RL)**. Our goal is to provide a comprehensive reference for researchers, practitioners, and enthusiasts interested in how LLMs can enhance RL through reasoning, planning, decision-making, and generalization.  
 
 Our work is based on the following paper:  
-📄 **[Paper Title]** – Available on [arXiv](https://arxiv.org/abs/XXXX.XXXXX).  
+📄 **LLM Post-Training: A Deep Dive into Reasoning Large Language Models** – Available on [arXiv]([https://arxiv.org/pdf/2502.21321](https://arxiv.org/pdf/2502.21321)).  
 Authors: **[Author 1], [Author 2], [Author 3], ..., [Author N]**.  
 
 Feel free to ⭐ star and fork this repository to keep up with the latest advancements and contribute to the community.
