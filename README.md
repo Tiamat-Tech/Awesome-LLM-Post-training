@@ -1,12 +1,21 @@
 # Awesome-Reasoning-LLM-Tutorial-Survey-Guide  
 
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]([https://arxiv.org/pdf/2502.21321](https://arxiv.org/pdf/2502.21321))  
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)  [![arXiv](https://img.shields.io/badge/arXiv-2502.21321-b31b1b.svg)]([https://arxiv.org/pdf/2502.21321](https://arxiv.org/pdf/2502.21321))  
 
 Welcome to the **Awesome-Reasoning-LLM-Tutorial-Survey-Guide** repository! This repository is a curated collection of the most influential papers, code implementations, benchmarks, and resources related to **Large Language Models (LLMs) and Reinforcement Learning (RL)**. Our goal is to provide a comprehensive reference for researchers, practitioners, and enthusiasts interested in how LLMs can enhance RL through reasoning, planning, decision-making, and generalization.  
 
 Our work is based on the following paper:  
 📄 **LLM Post-Training: A Deep Dive into Reasoning Large Language Models** – Available on [arXiv]([https://arxiv.org/pdf/2502.21321](https://arxiv.org/pdf/2502.21321)).  
-Authors: **[Author 1], [Author 2], [Author 3], ..., [Author N]**.  
+Authors: **Komal Kumar∗, Tajamul Ashraf∗, Omkar Thawakar, Rao Muhammad Anwer, Hisham Cholakkal, Mubarak Shah, Ming-Hsuan Yang, Phillip H.S. Torr, Fahad Shahbaz Khan, Salman Khan**. 
+
+**📌 Note:**  
+- **Equal contribution.**  
+- **Corresponding authors:** [Komal Kumar](mailto:komal.kumar@mbzuai.ac.ae), [Tajamul Ashraf](mailto:tajamul.ashraf@mbzuai.ac.ae).  
+- **Affiliations:**  
+  - Komal Kumar, Tajamul Ashraf, Omkar Thawakar, Rao Muhammad Anwer, Hisham Cholakkal, Fahad Shahbaz Khan, and Salman Khan are with **Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, UAE**.  
+  - Mubarak Shah is with the **Center for Research in Computer Vision at the University of Central Florida, Orlando, FL, USA**.  
+  - Ming-Hsuan Yang is with the **University of California at Merced, Merced, CA, USA**, and also with **Google DeepMind, Mountain View, CA, USA**.  
+  - Philip H.S. Torr is with the **Department of Engineering Science, University of Oxford, Oxford, UK**.  
 
 Feel free to ⭐ star and fork this repository to keep up with the latest advancements and contribute to the community.
 
