@@ -130,24 +130,53 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 ---
 
-## 🧠 LLMs for Reasoning & Decision-Making  
+## Part 8: Explainability
+* Agents Thinking Fast and Slow: A Talker-Reasoner Architecture [[Paper]](https://openreview.net/forum?id=xPhcP6rbI4) ![](https://img.shields.io/badge/NeurIPS_WorkShop-2024-blue)
+* What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective [[Paper]](https://arxiv.org/abs/2410.23743) ![](https://img.shields.io/badge/arXiv-2024.10-red)
+* When a Language Model is Optimized for Reasoning, Does It Still Show Embers of Autoregression? An Analysis of OpenAI o1 [[Paper]](https://arxiv.org/abs/2410.01792) ![](https://img.shields.io/badge/arXiv-2024.10-red)
+* The Impact of Reasoning Step Length on Large Language Models [[Paper]](https://arxiv.org/abs/2401.04925) ![](https://img.shields.io/badge/arXiv-2024.08-red)
+* Distilling System 2 into System 1 [[Paper]](https://arxiv.org/abs/2407.06023) ![](https://img.shields.io/badge/arXiv-2024.07-red)
+* System 2 Attention (is something you might need too) [[Paper]](https://arxiv.org/abs/2311.11829) ![](https://img.shields.io/badge/arXiv-2023.11-red)
+* Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought [[Paper]](https://arxiv.org/abs/2501.04682) ![](https://img.shields.io/badge/arXiv-2025.01-red)
+* LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs [[Paper]](https://arxiv.org/abs/2501.06186) ![](https://img.shields.io/badge/arXiv-2025.01-red)
+* Two Heads Are Better Than One: Dual-Model Verbal Reflection at Inference-Time [[Paper]](https://arxiv.org/abs/2502.19230) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+## Part 9: Multimodal Agent related Slow-Fast System
+* Diving into Self-Evolving Training for Multimodal Reasoning [[Paper]](https://arxiv.org/abs/2412.17451) ![](https://img.shields.io/badge/arXiv-2025.01-red)
+* Visual Agents as Fast and Slow Thinkers [[Paper]](https://openreview.net/forum?id=ncCuiD3KJQ) ![](https://img.shields.io/badge/ICLR-2025-blue)
+* Virgo: A Preliminary Exploration on Reproducing o1-like MLLM [[Paper]](https://arxiv.org/abs/2501.01904) ![](https://img.shields.io/badge/arXiv-2025.01-red)
+* Scaling Inference-Time Search With Vision Value Model for Improved Visual Comprehension [[Paper]](https://arxiv.org/pdf/2412.03704) ![](https://img.shields.io/badge/arXiv-2024.12-red)
+* Slow Perception: Let's Perceive Geometric Figures Step-by-Step [[Paper]](https://arxiv.org/abs/2412.20631) ![](https://img.shields.io/badge/arXiv-2024.12-red)
+* AtomThink: A Slow Thinking Framework for Multimodal Mathematical Reasoning [[Paper]](https://arxiv.org/abs/2411.11930) ![](https://img.shields.io/badge/arXiv-2024.11-red)
+* LLaVA-o1: Let Vision Language Models Reason Step-by-Step [[Paper]](https://arxiv.org/abs/2411.10440) ![](https://img.shields.io/badge/arXiv-2024.11-red)
+* Vision-Language Models Can Self-Improve Reasoning via Reflection [[Paper]](https://arxiv.org/abs/2411.00855) ![](https://img.shields.io/badge/arXiv-2024.11-red)
+* I Think, Therefore I Diffuse: Enabling Multimodal In-Context Reasoning in Diffusion Models [[Paper]](https://arxiv.org/abs/2502.10458) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* RAG-Gym: Optimizing Reasoning and Search Agents with Process Supervision [[Paper]](https://arxiv.org/abs/2502.13957) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+## Part 10: Benchmark and Datasets
+* Big-Math: A Large-Scale, High-Quality Math Dataset for Reinforcement Learning in Language Models [[Paper]](https://arxiv.org/abs/2502.17387) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models [[Paper]](https://arxiv.org/abs/2501.03124) ![](https://img.shields.io/badge/arXiv-2025.01-red)
+* MR-Ben: A Meta-Reasoning Benchmark for Evaluating System-2 Thinking in LLMs [[Paper]](https://openreview.net/forum?id=GN2qbxZlni) ![](https://img.shields.io/badge/NeurIPS-2024-blue)
+* Do NOT Think That Much for 2+3=? On the Overthinking of o1-like LLMs [[Paper]](https://arxiv.org/abs/2412.21187) ![](https://img.shields.io/badge/arXiv-2024.12-red)
+* A Preliminary Study of o1 in Medicine: Are We Closer to an AI Doctor? [[Paper]](https://arxiv.org/abs/2409.15277) ![](https://img.shields.io/badge/arXiv-2024.09-red)
+* EquiBench: Benchmarking Code Reasoning Capabilities of Large Language Models via Equivalence Checking [[Paper]](https://arxiv.org/abs/2502.12466) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* SuperGPQA: Scaling LLM Evaluation across 285 Graduate Disciplines [[Paper]](https://arxiv.org/abs/2502.14739) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* Multimodal RewardBench: Holistic Evaluation of Reward Models for Vision Language Models [[Paper]](https://arxiv.org/abs/2502.14191) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* FrontierMath: A Benchmark for Evaluating Advanced Mathematical Reasoning in AI [[Paper]](https://arxiv.org/abs/2411.04872) ![](https://img.shields.io/badge/arXiv-2024.11-red)
+* Evaluation of OpenAI o1: Opportunities and Challenges of AGI [[Paper]](https://arxiv.org/abs/2409.18486) ![](https://img.shields.io/badge/arXiv-2024.09-red)
+* MATH-Perturb: Benchmarking LLMs' Math Reasoning Abilities against Hard Perturbations [[Paper]](https://arxiv.org/abs/2502.06453) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* LongReason: A Synthetic Long-Context Reasoning Benchmark via Context Expansion [[Paper]](https://arxiv.org/abs/2501.15089) ![](https://img.shields.io/badge/arXiv-2025.01-red)
+* Humanity's Last Exam [[Paper]](https://arxiv.org/abs/2501.14249) ![](https://img.shields.io/badge/arXiv-2025.01-red)
+* LR<sup>2</sup>Bench: Evaluating Long-chain Reflective Reasoning Capabilities of Large Language Models via Constraint Satisfaction Problems [[Paper]](https://arxiv.org/abs/2502.17848) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* BIG-Bench Extra Hard [[Paper]](https://arxiv.org/abs/2502.19187) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 
-- **"Causal Decision Transformers"** - Xiao et al. (2023) [[Paper](https://arxiv.org/abs/2307.07774)]  
-- **"LLMs for Commonsense Reasoning in RL"** - Huang et al. (2023) [[Paper](https://arxiv.org/abs/2308.09876)]  
+## Part 11: Reasoning and Safety
+* OverThink: Slowdown Attacks on Reasoning LLMs [[Paper]](https://arxiv.org/abs/2502.02542) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* GuardReasoner: Towards Reasoning-based LLM Safeguards [[Paper]](https://arxiv.org/abs/2501.18492) ![](https://img.shields.io/badge/arXiv-2025.01-red)
+* SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities [[Paper]](https://arxiv.org/abs/2502.12025) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* ThinkGuard: Deliberative Slow Thinking Leads to Cautious Guardrails [[Paper]](https://arxiv.org/abs/2502.13458) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities [[Paper]](https://arxiv.org/abs/2502.12025) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* H-CoT: Hijacking the Chain-of-Thought Safety Reasoning Mechanism to Jailbreak Large Reasoning Models, Including OpenAI o1/o3, DeepSeek-R1, and Gemini 2.0 Flash Thinking [[Paper]](https://arxiv.org/abs/2502.12893) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* BoT: Breaking Long Thought Processes of o1-like Large Language Models through Backdoor Attack [[Paper]](https://arxiv.org/abs/2502.12202) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 
----
-
-## 🌀 Exploration & Generalization  
-
-- **"Harnessing LLMs for Zero-Shot RL"** - Du et al. (2023) [[Paper](https://arxiv.org/abs/2304.04636)]  
-- **"Generalization in RL: The Role of LLMs"** - Xiao et al. (2023) [[Paper](https://arxiv.org/abs/2305.06711)]  
-
----
-
-## 🤝 Multi-Agent RL (MARL)  
-
-- **"LLMs as Zero-Shot Coordinators in MARL"** - McIlroy-Young et al. (2023) [[Paper](https://arxiv.org/abs/2306.01665)]  
-- **"Emergent Communication in Multi-Agent RL with LLMs"** - Gupta et al. (2023) [[Paper](https://arxiv.org/abs/2305.05454)]  
 
 ---
 ## 🚀 RL & LLM Fine-Tuning Repositories
