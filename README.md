@@ -49,7 +49,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 | Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models | 16 Jan 2025 | [Arxiv](https://arxiv.org/abs/2501.09686) |  
 | Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models | 16 Jan 2025 | [Arxiv](https://arxiv.org/abs/2501.09686) |  
 | Reasoning with Large Language Models, a Survey | 16 July 2024 | [Arxiv](https://arxiv.org/abs/2407.11511) |  
-| Survey on Large Language Model-Enhanced Reinforcement Learning: Concept, Taxonomy, and Methods             | 30 Mar 2024        | [arXiv](https://arxiv.org/abs/2404.00282)                                             |
+| Survey on Large Language Model-Enhanced Reinforcement Learning: Concept, Taxonomy, and Methods| 30 Mar 2024        | [arXiv](https://arxiv.org/abs/2404.00282)                                             |
 | Reinforcement Learning Enhanced LLMs: A Survey                                                             | 15 Dec 2024        | [arXiv](https://arxiv.org/abs/2412.10400)                                             |
 | Enhancing Code LLMs with Reinforcement Learning in Code Generation: A Survey                               | 29 Dec 2024        | [arXiv](https://arxiv.org/abs/2412.20367)                                             |
 | Large Language Models: A Survey of Their Development, Capabilities, and Applications                        | 15 Jan 2025        | [Springer](https://link.springer.com/article/10.1007/s10115-024-02310-4)               |
