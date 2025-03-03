@@ -165,12 +165,12 @@ Contributions are welcome! If you have relevant papers, code, or insights, feel 
 
 
 
-## LaTeX  
-```latex
-\section*{Citation}
+
+## Citation
+
 If you find our work useful or use it in your research, please consider citing:
-\begin{quote}
-\begin{verbatim}
+
+```bibtex
 @misc{kumar2025llmposttrainingdeepdive,
       title={LLM Post-Training: A Deep Dive into Reasoning Large Language Models}, 
       author={Komal Kumar and Tajamul Ashraf and Omkar Thawakar and Rao Muhammad Anwer and Hisham Cholakkal and Mubarak Shah and Ming-Hsuan Yang and Phillip H. S. Torr and Salman Khan and Fahad Shahbaz Khan},
@@ -180,6 +180,4 @@ If you find our work useful or use it in your research, please consider citing:
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2502.21321}, 
 }
-\end{verbatim}
-\end{quote}
 ```
