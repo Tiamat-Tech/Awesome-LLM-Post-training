@@ -98,10 +98,28 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 ---
 
-## 🏆 Reward Learning  
+## 🏆 Reward Learning (Process Reward Models)
 
-- **"RLHF: Reinforcement Learning with Human Feedback"** - Christiano et al. (2017) [[Paper](https://arxiv.org/abs/1706.03741)]  
-- **"Direct Preference Optimization"** - Rafailov et al. (2023) [[Paper](https://arxiv.org/abs/2305.18290)]  
+* PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models. [[Paper]](https://arxiv.org/abs/2501.03124) ![](https://img.shields.io/badge/arXiv-2025.01-red)
+* ReARTeR: Retrieval-Augmented Reasoning with Trustworthy Process Rewarding [[Paper]](https://arxiv.org/abs/2501.07861) ![](https://img.shields.io/badge/arXiv-2025.01-red)
+* The Lessons of Developing Process Reward Models in Mathematical Reasoning. [[Paper]](https://arxiv.org/abs/2501.07301) ![](https://img.shields.io/badge/arXiv-2025.01-red)
+* ToolComp: A Multi-Tool Reasoning & Process Supervision Benchmark. [[Paper]](https://arxiv.org/abs/2501.01290) ![](https://img.shields.io/badge/arXiv-2025.01-red)
+* AutoPSV: Automated Process-Supervised Verifier [[Paper]](https://openreview.net/forum?id=eOAPWWOGs9) ![](https://img.shields.io/badge/NeurIPS-2024-blue)
+* ReST-MCTS*: LLM Self-Training via Process Reward Guided Tree Search [[Paper]](https://openreview.net/forum?id=8rcFOqEud5) ![](https://img.shields.io/badge/NeurIPS-2024-blue)
+* Free Process Rewards without Process Labels. [[Paper]](https://arxiv.org/abs/2412.01981) ![](https://img.shields.io/badge/arXiv-2024.12-red)
+* Outcome-Refining Process Supervision for Code Generation [[Paper]](https://arxiv.org/abs/2412.15118) ![](https://img.shields.io/badge/arXiv-2024.12-red)
+* Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations [[Paper]](https://aclanthology.org/2024.acl-long.510/) ![](https://img.shields.io/badge/ACL-2024-blue)
+* OVM: Outcome-supervised Value Models for Planning in Mathematical Reasoning [[Paper]](https://aclanthology.org/2024.findings-naacl.55/) ![](https://img.shields.io/badge/ACL_Findings-2024-blue)
+* Step-DPO: Step-wise Preference Optimization for Long-chain Reasoning of LLMs [[Paper]](https://arxiv.org/abs/2406.18629) ![](https://img.shields.io/badge/arXiv-2024.06-red)
+* Let's Verify Step by Step. [[Paper]](https://arxiv.org/abs/2305.20050) ![](https://img.shields.io/badge/arXiv-2024.05-red)
+* Improve Mathematical Reasoning in Language Models by Automated Process Supervision [[Paper]](https://arxiv.org/abs/2306.05372) ![](https://img.shields.io/badge/arXiv-2023.06-red)
+* Making Large Language Models Better Reasoners with Step-Aware Verifier [[Paper]](https://arxiv.org/abs/2206.02336) ![](https://img.shields.io/badge/arXiv-2023.06-red)
+* Solving Math Word Problems with Process and Outcome-Based Feedback [[Paper]](https://arxiv.org/abs/2211.14275) ![](https://img.shields.io/badge/arXiv-2022.11-red)
+* Uncertainty-Aware Step-wise Verification with Generative Reward Models [[Paper]](https://arxiv.org/abs/2502.11250) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* AdaptiveStep: Automatically Dividing Reasoning Step through Model Confidence [[Paper]](https://www.arxiv.org/abs/2502.13943) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* Self-Consistency of the Internal Reward Models Improves Self-Rewarding Language Models [[Paper]](https://www.arxiv.org/abs/2502.08922) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling [[Paper]](https://arxiv.org/abs/2502.06703) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals for Reliable Reward Systems [[Paper]](https://arxiv.org/abs/2502.19328) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 
 ---
 
