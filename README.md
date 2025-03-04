@@ -11,7 +11,7 @@ Our work is based on the following paper:
 Authors: **Komal Kumar∗, Tajamul Ashraf∗, Omkar Thawakar, Rao Muhammad Anwer, Hisham Cholakkal, Mubarak Shah, Ming-Hsuan Yang, Phillip H.S. Torr, Fahad Shahbaz Khan, Salman Khan**. 
 
 **📌 Note:**  
-- **Corresponding authors:** [Komal Kumar](mailto:komal.kumar@mbzuai.ac.ae), [Tajamul Ashraf](www.tajamulashraf.com).  
+- **Corresponding authors:** [Komal Kumar](mailto:komal.kumar@mbzuai.ac.ae), [Tajamul Ashraf](https://www.tajamulashraf.com/).  
 - **Affiliations:**  
   - Komal Kumar, Tajamul Ashraf, Omkar Thawakar, Rao Muhammad Anwer, Hisham Cholakkal, Fahad Shahbaz Khan, and Salman Khan are with **Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, UAE**.  
   - Mubarak Shah is with the **Center for Research in Computer Vision at the University of Central Florida, Orlando, FL, USA**.  
