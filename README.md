@@ -248,3 +248,16 @@ If you find our work useful or use it in your research, please consider citing:
       url={https://arxiv.org/abs/2502.21321}, 
 }
 ```
+
+## License :scroll:
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+
+Looking forward to your feedback, contributions, and stars! :star2:
+Please raise any issues or questions [here](https://github.com/mbzuai-oryx/Video-ChatGPT/issues). 
+
+
+---
+[<img src="docs/images/IVAL_logo.png" width="200" height="100">](https://www.ival-mbzuai.com)
+[<img src="docs/images/Oryx_logo.png" width="100" height="100">](https://github.com/mbzuai-oryx)
+[<img src="docs/images/MBZUAI_logo.png" width="360" height="85">](https://mbzuai.ac.ae)
