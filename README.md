@@ -254,10 +254,10 @@ If you find our work useful or use it in your research, please consider citing:
 
 
 Looking forward to your feedback, contributions, and stars! :star2:
-Please raise any issues or questions [here](https://github.com/mbzuai-oryx/Video-ChatGPT/issues). 
+Please raise any issues or questions [here](https://github.com/mbzuai-oryx/Awesome-LLM-Post-training/issues). 
 
 
 ---
-[<img src="docs/images/IVAL_logo.png" width="200" height="100">](https://www.ival-mbzuai.com)
-[<img src="docs/images/Oryx_logo.png" width="100" height="100">](https://github.com/mbzuai-oryx)
-[<img src="docs/images/MBZUAI_logo.png" width="360" height="85">](https://mbzuai.ac.ae)
+[<img src="docs/Images/IVAL_logo.png" width="200" height="100">](https://www.ival-mbzuai.com)
+[<img src="docs/Images/Oryx_logo.png" width="100" height="100">](https://github.com/mbzuai-oryx)
+[<img src="docs/Images/MBZUAI_logo.png" width="360" height="85">](https://mbzuai.ac.ae)
