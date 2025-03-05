@@ -13,9 +13,10 @@ Welcome to the **Awesome-LLM-Post-training** repository! This repository is a cu
 Our work is based on the following paper:  
 📄 **LLM Post-Training: A Deep Dive into Reasoning Large Language Models** – Available on [![arXiv](https://img.shields.io/badge/arXiv-2502.21321-b31b1b.svg)](https://arxiv.org/pdf/2502.21321)
 
-Authors: **Komal Kumar∗, Tajamul Ashraf∗, Omkar Thawakar, Rao Muhammad Anwer, Hisham Cholakkal, Mubarak Shah, Ming-Hsuan Yang, Phillip H.S. Torr, Fahad Shahbaz Khan, Salman Khan**. 
+#### [Komal Kumar](https://github.com/komalkumar)* , [Tajamul Ashraf](https://github.com/tajamulashraf)* , [Omkar Thawakar](https://github.com/omkarthawakar) , [Rao Muhammad Anwer](https://github.com/raoanwer) , [Hisham Cholakkal](https://github.com/hcholakkal) , [Mubarak Shah](https://github.com/mubarakshah) , [Ming-Hsuan Yang](https://github.com/mhyang) , [Philip H.S. Torr](https://github.com/phstorr) , [Fahad Shahbaz Khan](https://sites.google.com/view/fahadkhans/home) , and [Salman Khan](https://salman-h-khan.github.io/)  
+\* Equally contributing first authors
 
-**📌 Note:**  
+ 
 - **Corresponding authors:** [Komal Kumar](mailto:komal.kumar@mbzuai.ac.ae), [Tajamul Ashraf](https://www.tajamulashraf.com/).  
 
 Feel free to ⭐ star and fork this repository to keep up with the latest advancements and contribute to the community.
