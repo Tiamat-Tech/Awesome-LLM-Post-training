@@ -12,11 +12,6 @@ Authors: **Komal Kumar∗, Tajamul Ashraf∗, Omkar Thawakar, Rao Muhammad Anwer
 
 **📌 Note:**  
 - **Corresponding authors:** [Komal Kumar](mailto:komal.kumar@mbzuai.ac.ae), [Tajamul Ashraf](https://www.tajamulashraf.com/).  
-- **Affiliations:**  
-  - Komal Kumar, Tajamul Ashraf, Omkar Thawakar, Rao Muhammad Anwer, Hisham Cholakkal, Fahad Shahbaz Khan, and Salman Khan are with **Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, UAE**.  
-  - Mubarak Shah is with the **Center for Research in Computer Vision at the University of Central Florida, Orlando, FL, USA**.  
-  - Ming-Hsuan Yang is with the **University of California at Merced, Merced, CA, USA**, and also with **Google DeepMind, Mountain View, CA, USA**.  
-  - Philip H.S. Torr is with the **Department of Engineering Science, University of Oxford, Oxford, UK**.  
 
 Feel free to ⭐ star and fork this repository to keep up with the latest advancements and contribute to the community.
 
