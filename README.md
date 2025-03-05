@@ -258,6 +258,6 @@ Please raise any issues or questions [here](https://github.com/mbzuai-oryx/Aweso
 
 
 ---
-[<img src="docs/Images/IVAL_logo.png" width="200" height="100">](https://www.ival-mbzuai.com)
-[<img src="docs/Images/Oryx_logo.png" width="100" height="100">](https://github.com/mbzuai-oryx)
-[<img src="docs/Images/MBZUAI_logo.png" width="360" height="85">](https://mbzuai.ac.ae)
+[<img src="Images/IVAL_logo.png" width="200" height="100">](https://www.ival-mbzuai.com)
+[<img src="Images/Oryx_logo.png" width="100" height="100">](https://github.com/mbzuai-oryx)
+[<img src="Images/MBZUAI_logo.png" width="360" height="85">](https://mbzuai.ac.ae)
