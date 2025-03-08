@@ -58,6 +58,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 | From System 1 to System 2: A Survey of Reasoning Large Language Models | 25 Feb 2025 | [Arxiv](https://arxiv.org/abs/2502.17419) |
 | Empowering LLMs with Logical Reasoning: A Comprehensive Survey | 24 Fev 2025 | [Arxiv](https://arxiv.org/pdf/2502.15652)|
 | Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models | 16 Jan 2025 | [Arxiv](https://arxiv.org/abs/2501.09686) |
+|Harmful Fine-tuning Attacks and Defenses for Large Language Models: A Survey   | 26 Sep 2024 | [Arxiv](https://arxiv.org/abs/2409.18169) |
 | Reasoning with Large Language Models, a Survey | 16 July 2024 | [Arxiv](https://arxiv.org/abs/2407.11511) |
 | Survey on Large Language Model-Enhanced Reinforcement Learning: Concept, Taxonomy, and Methods | 30 Mar 2024 | [Arxiv](https://arxiv.org/abs/2404.00282) |
 | Reinforcement Learning Enhanced LLMs: A Survey | 5 Dec 2024 | [Arxiv](https://arxiv.org/abs/2412.10400) |
@@ -173,6 +174,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 * BIG-Bench Extra Hard [[Paper]](https://arxiv.org/abs/2502.19187) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 
 ## Part 11: Reasoning and Safety
+* Safety Tax: Safety Alignment Makes Your Large Reasoning Models Less Reasonable [[Paper]](https://arxiv.org/abs/2503.00555v1) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 * OverThink: Slowdown Attacks on Reasoning LLMs [[Paper]](https://arxiv.org/abs/2502.02542) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * GuardReasoner: Towards Reasoning-based LLM Safeguards [[Paper]](https://arxiv.org/abs/2501.18492) ![](https://img.shields.io/badge/ICLR_WorkShop-2025-blue)
 * SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities [[Paper]](https://arxiv.org/abs/2502.12025) ![](https://img.shields.io/badge/arXiv-2025.02-red)
