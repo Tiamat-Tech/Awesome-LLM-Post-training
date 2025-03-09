@@ -54,7 +54,6 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 | Title | Publication Date | Link |
 |---------------------------------|----------------|---------------------------------|
-| Graph-Augmented Reasoning: Evolving Step-by-Step Knowledge Graph Retrieval for LLM Reasoning | 3 Mar 2025 | [Arxiv](https://arxiv.org/pdf/2503.01642) |
 | From System 1 to System 2: A Survey of Reasoning Large Language Models | 25 Feb 2025 | [Arxiv](https://arxiv.org/abs/2502.17419) |
 | Empowering LLMs with Logical Reasoning: A Comprehensive Survey | 24 Fev 2025 | [Arxiv](https://arxiv.org/pdf/2502.15652)|
 | Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models | 16 Jan 2025 | [Arxiv](https://arxiv.org/abs/2501.09686) |
