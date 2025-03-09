@@ -81,23 +81,23 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 ## 🤖 LLMs in RL  
 
-- **"Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search"** | 08-02-2025 | [[Paper](https://arxiv.org/abs/2502.02508)]  
-- **"DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL"** | 08-02-2025 | [[Paper](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2)]  
-- **"QLASS: Boosting Language Agent Inference via Q-Guided Stepwise Search"** | 08-02-2025 | [[Paper](https://arxiv.org/abs/2502.02584)]  
-- **"Process Reinforcement through Implicit Rewards"** | 04-02-2025 | [[Paper](https://arxiv.org/abs/2502.01456)]  
-- **"Advancing Language Model Reasoning through Reinforcement Learning and Inference Scaling"** | 29-01-2025 | [[Paper](https://arxiv.org/abs/2501.11651)]  
-- **"Challenges in Ensuring AI Safety in DeepSeek-R1 Models: The Shortcomings of Reinforcement Learning Strategies"** | 30-01-2025 [[Paper](https://arxiv.org/abs/2501.17030)]  
-- **"DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"** | 26-01-2025 | [[Paper](https://arxiv.org/abs/2501.12948)]  
-- **"Kimi k1.5: Scaling Reinforcement Learning with LLMs"** | 25-01-2025 | [[Paper](https://arxiv.org/abs/2501.12599)]  
-- **"Does RLHF Scale? Exploring the Impacts From Data, Model, and Method"** | 18-12-2024 | [[Paper](https://arxiv.org/abs/2412.06000)]  
-- **"Offline Reinforcement Learning for LLM Multi-Step Reasoning"** | 29-12-2024 | [[Paper](https://arxiv.org/abs/2412.16145)]  
-- **"ReFT: Representation Finetuning for Language Models"** | 10-07-2024 | [[Paper](https://aclanthology.org/2024.acl-long.410.pdf)]  
-- **"Deepseekmath: Pushing the Limits of Mathematical Reasoning in Open Language Models"** | 02-02-2024 | [[Paper](https://arxiv.org/abs/2402.03300)]  
-- **"Reasoning with Reinforced Functional Token Tuning"** | 15-02-2025 | [[Paper](https://arxiv.org/abs/2502.13389)]  
-- **"Value-Based Deep RL Scales Predictably"** | 07-02-2025 | [[Paper](https://arxiv.org/abs/2502.04327)]  
-- **"InfAlign: Inference-aware Language Model Alignment"** | 30-12-2024 | [[Paper](https://arxiv.org/abs/2412.19792)]  
-- **"LIMR: Less is More for RL Scaling"** | 12-02-2025 | [[Paper](https://arxiv.org/abs/2502.11886)]  
-- **"A Survey on Feedback-based Multi-step Reasoning for Large Language Models on Mathematics"** | 14-02-2025 | [[Paper](https://arxiv.org/abs/2502.143)]  
+* Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search [[Paper]](https://arxiv.org/abs/2502.02508) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL [[Paper]](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2) ![](https://img.shields.io/badge/Notion-2025.02-red)
+* QLASS: Boosting Language Agent Inference via Q-Guided Stepwise Search [[Paper]](https://arxiv.org/abs/2502.02584) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* Process Reinforcement through Implicit Rewards [[Paper]](https://arxiv.org/abs/2502.01456) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* Advancing Language Model Reasoning through Reinforcement Learning and Inference Scaling [[Paper]](https://arxiv.org/abs/2501.11651) ![](https://img.shields.io/badge/arXiv-2025.01-red)
+* Challenges in Ensuring AI Safety in DeepSeek-R1 Models: The Shortcomings of Reinforcement Learning Strategies [[Paper]](https://arxiv.org/abs/2501.17030) ![](https://img.shields.io/badge/arXiv-2025.01-red)
+* DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning [[Paper]](https://arxiv.org/abs/2501.12948) ![](https://img.shields.io/badge/arXiv-2025.01-red)
+* Kimi k1.5: Scaling Reinforcement Learning with LLMs [[Paper]](https://arxiv.org/abs/2501.12599) ![](https://img.shields.io/badge/arXiv-2025.01-red)
+* Does RLHF Scale? Exploring the Impacts From Data, Model, and Method [[Paper]](https://arxiv.org/abs/2412.06000) ![](https://img.shields.io/badge/arXiv-2024.12-red)
+* Offline Reinforcement Learning for LLM Multi-Step Reasoning [[Paper]](https://arxiv.org/abs/2412.16145) ![](https://img.shields.io/badge/arXiv-2024.12-red)
+* ReFT: Representation Finetuning for Language Models [[Paper]](https://aclanthology.org/2024.acl-long.410.pdf) ![](https://img.shields.io/badge/ACL-2024-blue)
+* Deepseekmath: Pushing the limits of mathematical reasoning in open language models [[Paper]](https://arxiv.org/abs/2402.03300) ![](https://img.shields.io/badge/arXiv-2024.02-red)
+* Reasoning with Reinforced Functional Token Tuning [[Paper]](https://arxiv.org/abs/2502.13389) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* Value-Based Deep RL Scales Predictably [[Paper]](https://arxiv.org/abs/2502.04327) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* InfAlign: Inference-aware language model alignment [[Paper]](https://arxiv.org/abs/2412.19792) ![](https://img.shields.io/badge/arXiv-2024.12-red)
+* LIMR: Less is More for RL Scaling [[Paper]](https://arxiv.org/abs/2502.11886) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* A Survey on Feedback-based Multi-step Reasoning for Large Language Models on Mathematics [[Paper]](https://arxiv.org/abs/2502.143) ![](https://img.shields.io/badge/arXiv-2025.02-red)
  
 
 ---
