@@ -35,7 +35,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 | Section | Subsection |  
 | ------- | ----------- |  
 | [📖 Papers](#papers) | [Survey](#survey), [Theory](#theory), [Explainability](#explainability) |  
-| [🤖 LLMs in RL](#llms-in-rl) | LLM-Augmented Reinforcement Learning |  
+| [🤖 LLMs in RL](#LLMs-in-RL) | LLM-Augmented Reinforcement Learning |  
 | [🏆 Reward Learning](#reward-learning) | [Human Feedback](#human-feedback), [Preference-Based RL](#preference-based-rl), [Intrinsic Motivation](#intrinsic-motivation) |  
 | [🚀 Policy Optimization](#policy-optimization) | [Offline RL](#offline-rl), [Imitation Learning](#imitation-learning), [Hierarchical RL](#hierarchical-rl) |  
 | [🧠 LLMs for Reasoning & Decision-Making](#llms-for-reasoning-and-decision-making) | [Causal Reasoning](#causal-reasoning), [Planning](#planning), [Commonsense RL](#commonsense-rl) |  
@@ -80,7 +80,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 ---
 
-## 🤖 LLMs in RL  
+## 🤖 LLMs-in-RL  
 
 * Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search [[Paper]](https://arxiv.org/abs/2502.02508) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL [[Paper]](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2) ![](https://img.shields.io/badge/Notion-2025.02-red)
