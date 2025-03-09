@@ -176,14 +176,6 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 * Control-DAG: Constrained Decoding for Non-Autoregressive Directed Acyclic T5 using Weighted Finite State Automata [[Paper]](https://aclanthology.org/2024.naacl-short.42/) ![](https://img.shields.io/badge/NAACL-2024-blue)
 * Look-back Decoding for Open-Ended Text Generation [[Paper]](https://aclanthology.org/2023.emnlp-main.66/) ![](https://img.shields.io/badge/EMNLP-2023-blue)
 * LeanProgress: Guiding Search for Neural Theorem Proving via Proof Progress Prediction [[Paper]](https://arxiv.org/abs/2502.17925) ![](https://img.shields.io/badge/arXiv-2025.02-red)
-##  Self-Training / Self-Improve
-
-
-
-## 🚀 Policy Optimization  
-
-- **"Decision Transformer: Reinforcement Learning via Sequence Modeling"** - Chen et al. (2021) [[Paper](https://arxiv.org/abs/2106.01345)]  
-- **"Offline RL with LLMs as Generalist Memory"** - Tian et al. (2023) [[Paper](https://arxiv.org/abs/2302.02096)]  
 
 ---
 
