@@ -26,7 +26,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
   <img src="./Images/teasor.jpg" width="45%" hieght="50%" />
 <!--   <img src="./Images/methods.jpg" width="45%" height="50%" /> -->
 </p>
-
+A taxonomy of post-training approaches for **LLMs**, categorized into Fine-tuning, Reinforcement Learning, and Test-time Scaling methods. We summarize the key techniques used in recent LLM models.
 
 ---
 
