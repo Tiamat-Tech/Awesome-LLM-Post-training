@@ -298,7 +298,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 Contributions are welcome! If you have relevant papers, code, or insights, feel free to submit a pull request.  
 
-[![Star History Chart](https://api.star-history.com/svg?repos=mbzuai-oryx/Awesome-LLM-Post-training&type=Date)](https://www.star-history.com/#mbzuai-oryx/Awesome-LLM-Post-training&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=mbzuai-oryx/Awesome-LLM-Post-training&type=Timeline)](https://www.star-history.com/#mbzuai-oryx/Awesome-LLM-Post-training&Timeline)
 
 ## Citation
 
