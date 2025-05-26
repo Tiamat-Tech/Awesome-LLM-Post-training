@@ -77,6 +77,8 @@ A taxonomy of post-training approaches for **LLMs**, categorized into Fine-tunin
 | Reasoning with Large Language Models: A Survey | 14 Feb 2023 | [Arxiv](https://arxiv.org/abs/2302.06476) |
 | A Survey on Foundation Models for Decision Making | 9 Jan 2023 | [Arxiv](https://arxiv.org/abs/2301.04150) |
 | Large Language Models in Reinforcement Learning: Opportunities and Challenges | 5 Dec 2022 | [Arxiv](https://arxiv.org/abs/2212.09142) |
+| Training language models to follow instructions with human feedback | 4 Mar 2022 | [Arxiv](https://arxiv.org/abs/2203.02155) |
+
 
 
 ---
