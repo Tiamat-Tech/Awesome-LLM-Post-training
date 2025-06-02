@@ -54,6 +54,7 @@ A taxonomy of post-training approaches for **LLMs**, categorized into Fine-tunin
 
 | Title | Publication Date | Link |
 |---------------------------------|----------------|---------------------------------|
+| A Survey on Bridging VLMs and Synthetic Data | 16 May 2025 | [OpenReview](https://openreview.net/pdf?id=ThjDCZOljE) |
 | A Survey on Post-training of Large Language Models | 8 Mar 2025 | [Arxiv](https://arxiv.org/abs/2503.06072) |
 | LLM Post-Training: A Deep Dive into Reasoning Large Language Models | 28 Feb 2025 | [Arxiv](https://arxiv.org/pdf/2502.21321) |
 | From System 1 to System 2: A Survey of Reasoning Large Language Models | 25 Feb 2025 | [Arxiv](https://arxiv.org/abs/2502.17419) |
