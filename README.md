@@ -131,6 +131,13 @@ A taxonomy of post-training approaches for **LLMs**, categorized into Fine-tunin
 * Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals for Reliable Reward Systems [[Paper]](https://arxiv.org/abs/2502.19328) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * Guided by Gut: Efficient Test-Time Scaling with Reinforced Intrinsic Confidence [[Paper]](https://arxiv.org/abs/2505.20325) ![](https://img.shields.io/badge/arXiv-2025.05-red)
 ---
+
+## Policy Optimization
+
+* Squeeze the Soaked Sponge: Efficient Off-policy Reinforcement Finetuning for Large Language Model [[Paper]](https://arxiv.org/abs/2507.06892) ![](https://img.shields.io/badge/arXiv-2025.07-red)
+
+---
+
 ##  MCTS/Tree Search
 * On the Convergence Rate of MCTS for the Optimal Value Estimation in Markov Decision Processes [[Paper]](https://ieeexplore.ieee.org/abstract/document/10870057/) ![](https://img.shields.io/badge/IEEE_TAC-2025-blue)
 * Search-o1: Agentic Search-Enhanced Large Reasoning Models [[Paper]](https://arxiv.org/abs/2501.05366) ![](https://img.shields.io/badge/arXiv-2025.01-red)
