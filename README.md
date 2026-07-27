@@ -10,6 +10,12 @@
 
 Welcome to the **Awesome-LLM-Post-training** repository! This repository is a curated collection of the most influential papers, code implementations, benchmarks, and resources related to **Large Language Models (LLMs) Post-Training  Methodologies**. 
 
+
+🎉 News
+
+Our survey paper, “LLM Post-Training: A Deep Dive into Reasoning Large Language Models,” has been accepted for publication in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
+
+
 Our work is based on the following paper:  
 📄 **LLM Post-Training: A Deep Dive into Reasoning Large Language Models** – Available on [![arXiv](https://img.shields.io/badge/arXiv-2502.21321-b31b1b.svg)](https://arxiv.org/pdf/2502.21321)
 
