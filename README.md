@@ -13,7 +13,7 @@ Welcome to the **Awesome-LLM-Post-training** repository! This repository is a cu
 
 🎉 News
 
-Our survey paper, “LLM Post-Training: A Deep Dive into Reasoning Large Language Models,” has been accepted for publication in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
+- Our survey paper, “LLM Post-Training: A Deep Dive into Reasoning Large Language Models,” has been accepted for publication in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 
 
 Our work is based on the following paper:  
